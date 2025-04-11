@@ -1,7 +1,9 @@
 # 👻 Haunted House – Three.js Journey
 
-This is a project built as part of the **Three.js Journey** course by [Bruno Simon](https://threejs-journey.com/).  
+This is a project built as part of the **Three.js Journey**
 The goal was to create an interactive 3D **haunted house** scene with lights, shadows, spooky elements, and atmospheric effects.
+
+[https://haunted-house-jonathan.netlify.app/](https://haunted-house-jonathan.netlify.app/)
 
 ## 📸 Preview
 
