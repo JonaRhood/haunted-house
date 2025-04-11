@@ -19,16 +19,12 @@ The goal was to create an interactive 3D **haunted house** scene with lights, sh
 - Textured materials for realism
 - Interactive scene with orbit controls
 
-## 📸 Preview
-
-<img src="./static/hauntedImg.png">
-
 ## 📁 Setup
 
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/haunted-house-threejs.git
-cd haunted-house-threejs
+git clone https://github.com/your-username/haunted-house
+cd haunted-house
 npm install
 npm run dev
