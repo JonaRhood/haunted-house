@@ -17,12 +17,11 @@ The goal was to create an interactive 3D **haunted house** scene with lights, sh
 - Real-time shadows and lighting (point, ambient, directional lights)
 - Fog effects and animated ghosts
 - Textured materials for realism
-- Responsive and optimized for different screen sizes
 - Interactive scene with orbit controls
 
 ## 📸 Preview
 
-<img href="./static/hauntedImg.png">
+<img src="./static/hauntedImg.png">
 
 ## 📁 Setup
 

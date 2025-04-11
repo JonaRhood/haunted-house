@@ -470,8 +470,8 @@ const tick = () => {
     ghost3.position.z = Math.sin(ghost3Angle) * 6
     ghost3.position.y = Math.sin(ghost3Angle) * Math.sin(ghost3Angle * 2.34) * Math.sin(ghost3Angle * 3.45) +0.5
 
-    const cameraAngle = elapsedTime * 0.1
-    camera.position.x = Math.sin(cameraAngle) * 8
+    // const cameraAngle = elapsedTime * 0.1
+    // camera.position.x = Math.sin(cameraAngle) * 8
 
     // Update controls
     controls.update()
